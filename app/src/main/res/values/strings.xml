@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SmartExpenseTracker</string>
+    <string name="welcome_message">Welcome Back!</string>
+    <string name="current_balance_title">Current Remaining Balance</string>
+    <string name="last_update_prefix">Last Updated: </string>
+    <string name="next_reminder_prefix">Next Reminder: </string>
+    <string name="no_balance_saved">No balance recorded yet. Update your balance to get started!</string>
+
+    <!-- Buttons -->
+    <string name="btn_update_balance">Update Balance</string>
+    <string name="btn_view_history">View Balance History</string>
+    <string name="btn_reminder_settings">Reminder Settings</string>
+    <string name="btn_save_balance">Save Balance</string>
+    <string name="btn_save_reminder">Save Reminder Settings</string>
+
+    <!-- Balance Entry Screen -->
+    <string name="title_balance_entry">Enter Balance</string>
+    <string name="hint_enter_balance">Enter remaining balance (e.g. 150.00)</string>
+    <string name="error_empty_balance">Please enter a valid balance</string>
+    <string name="error_negative_balance">Balance cannot be negative</string>
+    <string name="error_invalid_number">Please enter a valid decimal number</string>
+    <string name="success_balance_saved">Balance saved successfully!</string>
+
+    <!-- Reminder Settings Screen -->
+    <string name="title_reminder_settings">Reminder Settings</string>
+    <string name="label_enable_reminder">Enable Daily Reminder</string>
+    <string name="label_reminder_time">Select Reminder Time</string>
+    <string name="success_reminder_saved">Reminder settings saved successfully!</string>
+    <string name="reminder_disabled_msg">Daily reminders are currently disabled.</string>
+    <string name="reminder_enabled_msg">Reminder scheduled for %02d:%02d daily.</string>
+
+    <!-- History Screen -->
+    <string name="title_balance_history">Balance History</string>
+    <string name="no_history_records">No balance history found.</string>
+
+    <!-- Notification -->
+    <string name="notification_channel_name">Expense Reminders</string>
+    <string name="notification_channel_desc">Daily reminders to update your account balance</string>
+    <string name="notification_title">Daily Expense Reminder</string>
+    <string name="notification_message">It\'s time to update your remaining account balance!</string>
+</resources>

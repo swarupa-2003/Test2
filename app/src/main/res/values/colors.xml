@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Professional Color Palette -->
+    <color name="navy_blue">#1B263B</color>
+    <color name="navy_dark">#0D1B2A</color>
+    <color name="purple_primary">#6200EE</color>
+    <color name="purple_variant">#3700B3</color>
+    <color name="teal_accent">#03DAC6</color>
+    <color name="background_light">#F8F9FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#212529</color>
+    <color name="text_secondary">#6C757D</color>
+
+    <color name="positive_green">#2E7D32</color>
+    <color name="positive_green_light">#E8F5E9</color>
+    <color name="warning_orange">#EF6C00</color>
+    <color name="warning_orange_light">#FFF3E0</color>
+    <color name="error_red">#C62828</color>
+    <color name="error_red_light">#FFEBEE</color>
+</resources>
